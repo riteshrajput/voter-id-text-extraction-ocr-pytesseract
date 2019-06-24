@@ -1,0 +1,12 @@
+﻿Epic No
+Firstname Middlename Lastname (In Marathi - Firstname Middlename Lastname) 
+Age
+Father's/Mother's/Husband - Firstname Lastname (In Marathi - Firstname Lastname)
+Maharashtra
+District
+
+
+Polling Station
+
+Assembly Constituency
+Parliamentary Constituency
