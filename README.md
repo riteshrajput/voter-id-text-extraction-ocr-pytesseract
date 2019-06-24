@@ -28,10 +28,20 @@ pip install beautifulsoup4
 pip install opencv-python
 ```
 
-## Result
+* If you receive an error - "TesseractNotFoundError: tesseract is not installed or it's not in your path"
+
+```
+1) Download tesseract and install it. Windows version is available here: "https://github.com/UB-Mannheim/tesseract/wiki"
+2) Copy the path of the tesseract install and paste it line of code exact as below.
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+```
+
+## Captcha Solver
+
+* The captcha is solved using [Pytesseract](https://pypi.org/project/pytesseract/). 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
+  <img src="README_gif.gif">
 </p>
 
 ## Contributing
