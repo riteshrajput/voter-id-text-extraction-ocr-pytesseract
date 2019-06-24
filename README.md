@@ -28,6 +28,10 @@ pip install beautifulsoup4
 pip install opencv-python
 ```
 
+## Environment
+
+* Python 3.6
+
 * If you receive an error - "TesseractNotFoundError: tesseract is not installed or it's not in your path"
 
 ```
@@ -45,7 +49,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 </p>
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please open an issue if you have any trouble or to discuss what you would like to change.
 
 ## Authors
 
