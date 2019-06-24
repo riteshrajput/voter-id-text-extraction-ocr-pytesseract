@@ -55,6 +55,14 @@ Please open an issue if you have any trouble or to discuss what you would like t
 
 * [RiteshRajput](https://github.com/riteshrajput/)
 
+## contact-info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [riteshrajput381@gmail.com](mailto:riteshrajput381@gmail.com)
+* GitHub: [Ritesh Rajput](https://github.com/riteshrajput)
+* LinkedIn: [Ritesh Rajput](https://www.linkedin.com/in/riteshrajput381/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
