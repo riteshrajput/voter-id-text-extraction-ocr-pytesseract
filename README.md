@@ -15,58 +15,31 @@
 
 * Run the "ScrapeVoterDetails.py" to scrape the data from website automatically.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries.
 
 ```bash
-pip install foobar
+pip install numpy
+pip install Pillow
+pip install selenium
+pip install pytesseract
+pip install beautifulsoup4
+pip install opencv-python
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+## Result
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
+</p>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Authors
 
-* **Ritesh Rajput** - *Initial work* - [RiteshRajput](https://github.com/riteshrajput/)
+* [RiteshRajput](https://github.com/riteshrajput/)
 
 ## License
 
@@ -77,5 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
-
