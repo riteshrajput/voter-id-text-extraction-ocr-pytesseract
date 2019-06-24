@@ -1,18 +1,19 @@
 # voter-id-text-extraction
 
-Text extract from VoterID and automatically fetching details from electorial website.
+* An implementation to extract info from VoterID image and automatically fetching details from electorial website.
+* Electoral website : https://electoralsearch.in/##resultArea
 
 ## Getting Started
 
-Run "TextExtractVoterId.py" to extract information from the Voters ID photo.
+* Run "TextExtractVoterId.py" to extract information from the Voters ID photo.
 
-Run "TextProcessing.py" to extract Voter ID information from textfile and obtain json file.
+* Run "TextProcessing.py" to extract Voter ID information from textfile and obtain json file.
 
-You will obtain "TextExtract.txt" and "Result.json" from running above two programs.
+* You will obtain "TextExtract.txt" and "Result.json" from running above two programs.
 
-Before running the below file, edit the path of tesseract and chromedriver according to your system.
+* Before running the below file, edit the path of tesseract and chromedriver according to your system.
 
-Run the "ScrapeVoterDetails.py" to scrape the data from website automatically.
+* Run the "ScrapeVoterDetails.py" to scrape the data from website automatically.
 
 ### Prerequisites
 
@@ -65,13 +66,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ritesh Rajput** - *Initial work* - [RiteshRajput](https://github.com/riteshrajput/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
