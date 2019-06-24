@@ -53,7 +53,7 @@ Please open an issue if you have any trouble or to discuss what you would like t
 
 ## Authors
 
-* [RiteshRajput](https://github.com/riteshrajput/)
+* [Ritesh Rajput](https://github.com/riteshrajput/)
 
 ## contact-info
 
