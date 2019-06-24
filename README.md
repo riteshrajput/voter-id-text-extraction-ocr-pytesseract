@@ -58,9 +58,3 @@ Please open an issue if you have any trouble or to discuss what you would like t
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
